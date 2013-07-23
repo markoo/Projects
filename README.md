@@ -9,8 +9,7 @@ Some details:
 
 * I will use Python to solve these. Why? Because I want to learn the language quickly.
 * I have no interest in making games, so I'm excluding those from the list below.
-* I'm not interested in networking, so I *might* skip all (or some) of them.
-* The projects will not be made in the order posted.
+* The projects WILL be made in the order posted. (planning for 1 a day)
 * I may not be able to complete all of them. 
 * My method of solving them may not be the best.
 
@@ -21,7 +20,7 @@ I will link to each project that I complete. Some will be in this same repo, som
 Numbers
 ---------
 
-**Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+[**Find PI to the Nth Digit**](https://github.com/markoo/Projects/blob/master/Numbers/findPI.py) – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
 **Fibonacci Sequence** – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 

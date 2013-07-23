@@ -8,7 +8,6 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 Some details:
 
 * I will use Python to solve these. Why? Because I want to learn the language quickly.
-* I have no interest in making games, so I'm excluding those from the list below.
 * The projects WILL be made in the order posted. (planning for 1 a day)
 * I may not be able to complete all of them. 
 * My method of solving them may not be the best.
